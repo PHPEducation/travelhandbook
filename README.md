@@ -12,7 +12,7 @@ Trang blog dành cho mọi người yêu thích du lịch, đăng tải thông t
   -- Xem thông tin tác giả</br>
   -- Xem thông tin các dịch vụ liên kết</br>
   -- Đăng ký nhận email dịch vụ khuyến mãi mới</br>
-  -- Đăng nhập, đăng ksy tài khoản User, nhà cung cấp dịch vụ</br>
+  -- Đăng nhập, đăng ký tài khoản User, nhà cung cấp dịch vụ</br>
  - User đã đăng nhập tài khoản người dùng thường:</br>
   -- Viết bài (với các trình editor tích hợp)</br>
   -- Khi viết bài có thêm include các nhà cung cấp dịch vụ liên kết với Blog</br>
